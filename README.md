@@ -1,6 +1,6 @@
 # powershell-ops-scripts
 
-A curated collection of PowerShell scripts for Windows system administration, automation, and security hardening. Designed to support helpdesk, sysadmin, and SecOps workflows.
+A curated collection of PowerShell scripts for Windows system administration, VMware operations, automation, and security hardening. Designed to support sysadmin and SecOps workflows.
 
 ## 🔧 Use Cases
 
@@ -12,6 +12,7 @@ A curated collection of PowerShell scripts for Windows system administration, au
 - ✅ Active Directory checks
 - ✅ Disk and service monitoring
 - ✅ Security baselining and hardening
+- ✅ VMware operations 
 
 ## ⚙️ Requirements
 
