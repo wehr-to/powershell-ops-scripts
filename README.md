@@ -19,6 +19,7 @@ A curated collection of PowerShell scripts for Windows system administration, VM
 - Windows 10 or Server 2016+
 - PowerShell 5.1 or PowerShell Core (7+)
 - Admin privileges for system-level scripts
+- VMware
 
 ## 🚀 Usage
 
